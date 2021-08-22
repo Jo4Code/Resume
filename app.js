@@ -9,4 +9,4 @@ document.write('Kelechi Joanna Ojelabi');
         tooltip.innerText = percentage + '%';
         bar.style.width = percentage + '%';
     })
-    console.log(percentage);
+    
